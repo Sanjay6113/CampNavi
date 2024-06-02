@@ -62,7 +62,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="+91 8939436383"
+                        android:text="@string/contact_phone_number"
                         android:textSize="@dimen/text_size_16" />
                 </LinearLayout>
             </LinearLayout>
@@ -108,7 +108,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="campnavi@gmail.com"
+                        android:text="@string/contact_email"
                         android:textSize="@dimen/text_size_16" />
                 </LinearLayout>
             </LinearLayout>
@@ -154,7 +154,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="VEL TECH MULTI TECH,AVADI"
+                        android:text="@string/contact_address"
                         android:textSize="@dimen/text_size_16" />
                 </LinearLayout>
             </LinearLayout>
