@@ -30,11 +30,11 @@
     <string name="setting_faq">Frequency asked questions</string>
     <string name="setting_contact">Contact Us</string>
     <string name="phone_number">Phone Number</string>
-    <string name="contact_phone_number">+255 752 988 988</string>
+    <string name="contact_phone_number">+91 8939436383</string>
     <string name="email">Email</string>
-    <string name="contact_email">isaxstarisaka@gmail.com</string>
+    <string name="contact_email">campnavi@gmail.com</string>
     <string name="address">Address</string>
-    <string name="contact_address">Mzumbe University,\nMorogoro</string>
+    <string name="contact_address">Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College,\n Avadi, Chennai, Tamil Nadu 600062</string>
     <string name="rational_dialog_for_permissions">
         It looks like you have turned off permission required for this feature.
         It can be enabled under the Applications settings
